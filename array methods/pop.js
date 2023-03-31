@@ -1,0 +1,10 @@
+let size=[]
+console.log(size.length)
+size.push(10)
+console.log(size)
+size.pop()
+console.log(size)
+size.push(2)
+console.log(size.length)
+size.pop()
+console.log(size)
